@@ -1,7 +1,7 @@
 
 <h1>Home</h1>
 <div>
-  <a href="" class="active">Home</a>
+  <a href="/" class="active">Home</a>
   <a href="/products">Products</a>
   <a href="/subscriptions">Subscriptions</a>
 </div>
